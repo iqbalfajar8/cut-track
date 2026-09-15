@@ -1,0 +1,46 @@
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and reconfigured your tsconfig.json file for you."}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":"  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:\n"}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":"  \t- include was updated to add '.next/dev/types/**/*.ts'"}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":"  The following mandatory changes were made to your tsconfig.json:\n"}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":"  \t- jsx was set to react-jsx (next.js uses the React automatic runtime)"}
+{"timestamp":"00:00:02.134","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.226","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.640","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:04.624","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:06:16.189","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:06:38.671","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:06:40.154","source":"Server","level":"LOG","message":"  Reload env: .env.local"}
+{"timestamp":"00:06:40.441","source":"Server","level":"LOG","message":"✓ Compiled in 193ms"}
+{"timestamp":"00:07:02.513","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:27.908","source":"Server","level":"LOG","message":"✓ Compiled in 134ms"}
+{"timestamp":"00:10:38.064","source":"Server","level":"LOG","message":"✓ Compiled in 126ms"}
+{"timestamp":"00:11:01.064","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:11:02.412","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:18:26.073","source":"Server","level":"LOG","message":"✓ Compiled in 162ms"}
+{"timestamp":"00:18:39.549","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:19:52.535","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:20:05.702","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:21:48.273","source":"Server","level":"LOG","message":"✓ Compiled in 63ms"}
+{"timestamp":"00:21:49.305","source":"Server","level":"LOG","message":"✓ Compiled in 9ms"}
+{"timestamp":"00:22:24.702","source":"Server","level":"LOG","message":"✓ Compiled in 58ms"}
+{"timestamp":"00:22:29.110","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:23:28.183","source":"Server","level":"LOG","message":"✓ Compiled in 62ms"}
+{"timestamp":"00:23:36.012","source":"Server","level":"LOG","message":"✓ Compiled in 174ms"}
+{"timestamp":"00:23:46.117","source":"Server","level":"LOG","message":"✓ Compiled in 42ms"}
+{"timestamp":"00:24:28.969","source":"Server","level":"LOG","message":"✓ Compiled in 51ms"}
+{"timestamp":"00:24:52.012","source":"Server","level":"LOG","message":"✓ Compiled in 27ms"}
+{"timestamp":"00:25:07.557","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:25:32.354","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:26:39.820","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:30:17.892","source":"Server","level":"WARN","message":"⚠ ./app/manifest.ts\nWarning: unexpected export *\nexport * used with module [project]/app/manifest.ts [app-route] (ecmascript) which has no exports\nTypescript only: Did you want to export only types with `export type * from \"...\"`?\nNote: Using `export type` is more efficient than `export *` as it won't emit any runtime code.\n\nImport trace:\n  App Route:\n    ./app/manifest.ts\n    ./app/manifest--route-entry.js\n\n"}
+{"timestamp":"00:30:18.070","source":"Server","level":"ERROR","message":"⨯ Error: Default export is missing in \"./manifest.ts\""}
+{"timestamp":"00:30:18.074","source":"Server","level":"WARN","message":"⚠ ./app/manifest.ts\nWarning: unexpected export *\nexport * used with module [project]/app/manifest.ts [app-route] (ecmascript) which has no exports\nTypescript only: Did you want to export only types with `export type * from \"...\"`?\nNote: Using `export type` is more efficient than `export *` as it won't emit any runtime code.\n\nImport trace:\n  App Route:\n    ./app/manifest.ts\n    ./app/manifest--route-entry.js\n\n"}
+{"timestamp":"00:30:18.076","source":"Server","level":"ERROR","message":"⨯ Error: Default export is missing in \"./manifest.ts\""}
+{"timestamp":"00:30:18.078","source":"Server","level":"WARN","message":"⚠ ./app/manifest.ts\nWarning: unexpected export *\nexport * used with module [project]/app/manifest.ts [app-route] (ecmascript) which has no exports\nTypescript only: Did you want to export only types with `export type * from \"...\"`?\nNote: Using `export type` is more efficient than `export *` as it won't emit any runtime code.\n\nImport trace:\n  App Route:\n    ./app/manifest.ts\n    ./app/manifest--route-entry.js\n\n"}
+{"timestamp":"00:30:18.081","source":"Server","level":"ERROR","message":"⨯ Error: Default export is missing in \"./manifest.ts\""}
+{"timestamp":"00:30:18.083","source":"Server","level":"WARN","message":"⚠ ./app/manifest.ts\nWarning: unexpected export *\nexport * used with module [project]/app/manifest.ts [app-route] (ecmascript) which has no exports\nTypescript only: Did you want to export only types with `export type * from \"...\"`?\nNote: Using `export type` is more efficient than `export *` as it won't emit any runtime code.\n\nImport trace:\n  App Route:\n    ./app/manifest.ts\n    ./app/manifest--route-entry.js\n\n"}
+{"timestamp":"00:30:18.085","source":"Server","level":"ERROR","message":"⨯ Error: Default export is missing in \"./manifest.ts\""}
+{"timestamp":"00:30:54.779","source":"Server","level":"LOG","message":"✓ Compiled in 45ms"}
+{"timestamp":"00:31:59.744","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
